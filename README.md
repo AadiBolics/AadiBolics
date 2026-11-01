@@ -24,6 +24,6 @@
 Placement Cell Coordinator, IIIT Kottayam - TCS CodeVita Season 14 College Ambassador
 
 ## Find me
-https://aadinadhan.me
-https://linkedin.com/in/aadi-iiitk
-aadinadhan17@gmail.com
+- https://aadinadhan.me
+- https://linkedin.com/in/aadi-iiitk
+- aadinadhan17@gmail.com
